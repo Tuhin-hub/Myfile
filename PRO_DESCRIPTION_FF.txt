@@ -1,0 +1,6 @@
+ABC,This is product ABC.,M,8/14/2017,150
+DEF,This is product DEF.,S,6/10/2018,700
+PQR,This is product PQR.,M,1/23/2019,1500
+MNO,This is product MNO.,S,5/23/2020,2500
+XYZZ,This is product XYZZ.,S,5/23/2021,2500
+TKB,This is product TKB.,M,6/5/2022,300
